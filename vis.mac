@@ -1,0 +1,20 @@
+#/vis/verbose 2
+/control/verbose 2
+/run/verbose 2
+
+/vis/open OGLIX 
+#/vis/open VRML2FILE
+
+#/vis/scene/create
+#/vis/scene/add/volume
+
+#/vis/sceneHandler/attach
+/vis/drawVolume
+#/vis/viewer/set/lightsThetaPhi 90. 180. deg
+#/vis/viewer/set/viewpointThetaPhi 90 180 deg
+#/vis/viewer/zoom 0.8
+/tracking/storeTrajectory 1
+/vis/scene/add/trajectories
+/vis/scene/endOfEventAction accumulate
+
+
