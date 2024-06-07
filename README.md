@@ -25,4 +25,6 @@ $ /run/beamOn 10000
  ![スクリーンショット 2024-06-08 0 11 40](https://github.com/Kohki-Amemiya/E73_ReconstMom/assets/144120249/8ab206ea-30cb-4574-8f54-84f81679795a)
   
 - Run ana/method2.cc to calculate initial momentum by beta scanning method
+![スクリーンショット 2024-06-08 0 12 30](https://github.com/Kohki-Amemiya/E73_ReconstMom/assets/144120249/b7db2630-cf70-4e35-a356-5d38edd569bf)
+
   
