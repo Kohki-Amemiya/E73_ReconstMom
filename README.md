@@ -21,5 +21,6 @@ $ /run/beamOn 10000
 ```
 
 ### How to use analysis code
-
-- Run ana/ReconstMom.cc to calculate initial momentum by beta scanning method
+- Run ana/method1.cc to calculate initial momentum in analytical method
+  
+- Run ana/method2.cc to calculate initial momentum by beta scanning method
